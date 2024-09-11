@@ -12,7 +12,7 @@ export const projects = {
   3: {
     name: "Multiple Facial Recognition Attendance System",
     github: "https://github.com/Pratik228/FDP",
-    live: "https://project3-demo.com",
+    live: "https://drive.google.com/file/d/1m1Op6s5-U96sYxJafj-QJmzFWwi_4k7K/view?usp=sharing",
   },
 };
 
