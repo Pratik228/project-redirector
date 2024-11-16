@@ -1,8 +1,8 @@
 export const projects = {
   1: {
-    name: "Netflix GPT",
-    github: "https://github.com/Pratik228/Netflix-gpt",
-    live: "https://netflix-gpt-kohl-kappa.vercel.app/",
+    name: "DocVerify",
+    github: "https://github.com/Pratik228/DocuVille",
+    live: "https://docu-verify.vercel.app/login",
   },
   2: {
     name: "E-Mithru",
@@ -10,9 +10,9 @@ export const projects = {
     live: "https://emithru.pages.dev/login",
   },
   3: {
-    name: "Multiple Facial Recognition Attendance System",
-    github: "https://github.com/Pratik228/FDP",
-    live: "https://drive.google.com/file/d/1m1Op6s5-U96sYxJafj-QJmzFWwi_4k7K/view?usp=sharing",
+    name: "Netflix GPT",
+    github: "https://github.com/Pratik228/Netflix-gpt",
+    live: "https://netflix-gpt-kohl-kappa.vercel.app/",
   },
 };
 
